@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>navigate through images, documents and open a website</title>
+</head>
+<body>
+  <h1> Question 4 </h1><hr>
+   <a href="https://en.wikipedia.org/wiki/HTML">
+      <img alt="documents" src="https://www.juicymedia.co.uk/application/files/4615/1838/4923/html_css_js.png" width = " 300 "height="200">
+   </a>
+</body>
+</html>
